@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Sample"
+		},
+		{
+			"path": "..\\Insta"
+		},
+		{
+			"path": "..\\Tesla"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Personal Website"
+	}
+}
